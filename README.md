@@ -47,9 +47,6 @@ open-source language model, with no paid API required.
 |---|---|---|
 | [Nizam-Niche](https://github.com/juvi-160/Nizam-Niche) | An e-commerce platform celebrating Hyderabad's artisanal heritage | Node.js, Express, EJS, MongoDB |
 | [HMS-Backend](https://github.com/juvi-160/HMS-Backend) | Backend service for a hospital management system | JavaScript |
-| [Dar-Ul-Hikmah-Freelancing-Project](https://github.com/juvi-160/Dar-Ul-Hikmah-Freelancing-Project) | Freelance backend development | JavaScript |
-| [YBI-Internship](https://github.com/juvi-160/YBI-Internship) | 30-day internship covering big data and cloud computing | Jupyter Notebook |
-
 ---
 
 ## Tech Stack
@@ -79,16 +76,6 @@ open-source language model, with no paid API required.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Juveria's GitHub stats](https://github-readme-stats.vercel.app/api?username=juvi-160&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juvi-160&layout=compact&hide_border=true&theme=default)
 
 </div>
 
